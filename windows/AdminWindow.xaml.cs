@@ -45,7 +45,8 @@ namespace bench.windows
 
         private void treninziEvent(object sender, RoutedEventArgs e)
         {
-
+            AdminTreninziCRUD adminTreninziCRUD = new AdminTreninziCRUD();
+            adminTreninziCRUD.Show();
         }
     }
 }

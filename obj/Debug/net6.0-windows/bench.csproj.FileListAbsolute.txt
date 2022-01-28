@@ -48,3 +48,15 @@ C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\Admi
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminKreirajPolaznika.baml
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminIzmeniPolaznika.g.cs
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminIzmeniPolaznika.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminIzmeniInstruktora.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminKreirajTrening.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminTreninziCRUD.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminIzmeniInstruktora.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminKreirajTrening.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminTreninziCRUD.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminIzmeniTrening.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminIzmeniTrening.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\InstruktorPregledTreninga.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\InstruktorPregledTreninga.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\InstruktorKreirajTrening.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\InstruktorKreirajTrening.baml

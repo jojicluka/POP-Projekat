@@ -149,7 +149,7 @@ namespace bench.windows {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/bench;V1.0.0.0;component/windows/adminizmenipolaznika.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/bench;component/windows/adminizmenipolaznika.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\windows\AdminIzmeniPolaznika.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

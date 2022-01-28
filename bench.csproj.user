@@ -10,7 +10,13 @@
     <Compile Update="windows\AdminInstruktoriCRUD.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="windows\AdminIzmeniInstruktora.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="windows\AdminIzmeniPolaznika.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\AdminIzmeniTrening.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="windows\AdminKreirajInstruktora.xaml.cs">
@@ -19,10 +25,22 @@
     <Compile Update="windows\AdminKreirajPolaznika.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="windows\AdminKreirajTrening.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="windows\AdminPolazniciCrud.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="windows\AdminTreninziCRUD.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="windows\AdminWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\InstruktorKreirajTrening.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\InstruktorPregledTreninga.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="windows\InstruktorWindow.xaml.cs">
@@ -48,7 +66,13 @@
     <Page Update="windows\AdminInstruktoriCRUD.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="windows\AdminIzmeniInstruktora.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="windows\AdminIzmeniPolaznika.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\AdminIzmeniTrening.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="windows\AdminKreirajInstruktora.xaml">
@@ -57,10 +81,22 @@
     <Page Update="windows\AdminKreirajPolaznika.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="windows\AdminKreirajTrening.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="windows\AdminPolazniciCrud.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="windows\AdminTreninziCRUD.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="windows\AdminWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\InstruktorKreirajTrening.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\InstruktorPregledTreninga.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="windows\InstruktorWindow.xaml">

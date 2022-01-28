@@ -27,8 +27,18 @@ namespace bench.windows
         private void infoEvent(object sender, RoutedEventArgs e)
         {
             PolaznikInfoWindow piw = new PolaznikInfoWindow();
-            this.Hide();
             piw.Show();
+        }
+
+        private void treninziEvent(object sender, RoutedEventArgs e)
+        {
+            InstruktorPregledTreninga instruktorPregledTreninga = new InstruktorPregledTreninga();
+            instruktorPregledTreninga.Show();
+        }
+
+        private void polazniciEvent(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
