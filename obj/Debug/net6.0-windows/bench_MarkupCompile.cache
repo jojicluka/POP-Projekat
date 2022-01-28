@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Z-Book\Desktop\Projekat POP\bench\App.xaml
-18-1352050829
+22547805526
 
-22320448018
+261700796976
 1951772183171
-MainWindow.xaml;windows\AdminInstruktoriCRUD.xaml;windows\AdminIzmeniInstruktora.xaml;windows\AdminIzmeniPolaznika.xaml;windows\AdminIzmeniTrening.xaml;windows\AdminKreirajInstruktora.xaml;windows\AdminKreirajPolaznika.xaml;windows\AdminKreirajTrening.xaml;windows\AdminPolazniciCrud.xaml;windows\AdminTreninziCRUD.xaml;windows\AdminWindow.xaml;windows\InstruktorKreirajTrening.xaml;windows\InstruktorPregledTreninga.xaml;windows\InstruktorWindow.xaml;windows\LoginWindow.xaml;windows\PolaznikInfoWindow.xaml;windows\PolaznikWindow.xaml;windows\RegistracijaWindow.xaml;
+MainWindow.xaml;windows\AdminInstruktoriCRUD.xaml;windows\AdminIzmeniInstruktora.xaml;windows\AdminIzmeniPolaznika.xaml;windows\AdminIzmeniTrening.xaml;windows\AdminKreirajInstruktora.xaml;windows\AdminKreirajPolaznika.xaml;windows\AdminKreirajTrening.xaml;windows\AdminPolazniciCrud.xaml;windows\AdminTreninziCRUD.xaml;windows\AdminWindow.xaml;windows\FitnessCentarInfo.xaml;windows\InstruktorKreirajTrening.xaml;windows\InstruktorPregledTreninga.xaml;windows\InstruktorWindow.xaml;windows\LoginWindow.xaml;windows\PolaznikInfoWindow.xaml;windows\PolaznikIzaberiInstruktora.xaml;windows\PolaznikIzaberiTermin.xaml;windows\PolaznikPregledTreninga.xaml;windows\PolaznikWindow.xaml;windows\RegistracijaWindow.xaml;
 
 False
 

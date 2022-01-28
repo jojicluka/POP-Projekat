@@ -37,6 +37,9 @@
     <Compile Update="windows\AdminWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="windows\FitnessCentarInfo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="windows\InstruktorKreirajTrening.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -50,6 +53,15 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="windows\PolaznikInfoWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\PolaznikIzaberiInstruktora.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\PolaznikIzaberiTermin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\PolaznikPregledTreninga.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="windows\PolaznikWindow.xaml.cs">
@@ -93,6 +105,9 @@
     <Page Update="windows\AdminWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="windows\FitnessCentarInfo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="windows\InstruktorKreirajTrening.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -106,6 +121,15 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="windows\PolaznikInfoWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\PolaznikIzaberiInstruktora.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\PolaznikIzaberiTermin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\PolaznikPregledTreninga.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="windows\PolaznikWindow.xaml">

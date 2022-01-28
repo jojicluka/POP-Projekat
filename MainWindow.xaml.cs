@@ -40,5 +40,10 @@ namespace bench
             this.Hide();
             loginWindow.Show();
         }
+
+        private void fcEvent(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

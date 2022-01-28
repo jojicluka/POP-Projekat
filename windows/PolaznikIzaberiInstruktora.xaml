@@ -1,0 +1,23 @@
+﻿<Window x:Class="bench.windows.PolaznikIzaberiInstruktora"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bench.windows"
+        mc:Ignorable="d"
+        Title="bench - Polaznik / Izaberi instruktora" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0.323"/>
+                <GradientStop Color="#FF1F1E1A" Offset="0.957"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <DataGrid x:Name="instruktoriTable" HorizontalAlignment="Center" Height="286" VerticalAlignment="Top" Width="718" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,48,0,0" Background="#FF353131" BorderBrush="#FF5B5B5B"/>
+        <Image Margin="359,0,368,386" Source="/benchlogo.png" Stretch="Fill"/>
+        <Button x:Name="selectBtn" Content="Izaberi" HorizontalAlignment="Left" Height="41" Margin="400,383,0,0" VerticalAlignment="Top" Width="127" Click="selectEvent"/>
+        <TextBox x:Name="jmbgInput" HorizontalAlignment="Left" Height="24" Margin="316,344,0,0" TextWrapping="Wrap" Text="JMBG" VerticalAlignment="Top" Width="159"/>
+        <Button x:Name="closeBtn" Content="Zatvori" HorizontalAlignment="Left" Height="41" Margin="268,383,0,0" VerticalAlignment="Top" Width="127" Click="closeEvent"/>
+
+    </Grid>
+</Window>

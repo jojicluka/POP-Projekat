@@ -60,3 +60,11 @@ C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\Inst
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\InstruktorPregledTreninga.baml
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\InstruktorKreirajTrening.g.cs
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\InstruktorKreirajTrening.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PolaznikIzaberiInstruktora.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PolaznikIzaberiTermin.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PolaznikIzaberiInstruktora.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PolaznikIzaberiTermin.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\FitnessCentarInfo.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PolaznikPregledTreninga.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\FitnessCentarInfo.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PolaznikPregledTreninga.baml
