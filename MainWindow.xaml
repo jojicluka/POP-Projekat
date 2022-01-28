@@ -15,7 +15,7 @@
         </Grid.Background>
         <Button x:Name="registracijaBtn" Content="Registracija" HorizontalAlignment="Left" Margin="374,53,0,0" VerticalAlignment="Top" Height="145" Width="145" Background="#FF353131" FontFamily="Corbel" Click="registracijaBtnEvent" Foreground="White" FontWeight="Bold" FontSize="18"/>
         <Button x:Name="loginBtn" Content="Login" HorizontalAlignment="Left" Margin="580,53,0,0" VerticalAlignment="Top" Height="145" Width="145" Background="#FF353131" FontFamily="Corbel" Click="loginBtnEvent" FontWeight="Bold" FontSize="18" Foreground="White"/>
-        <Button x:Name="instruktoriBtn" Content="Pregled instruktora" HorizontalAlignment="Left" Margin="580,236,0,0" VerticalAlignment="Top" Height="145" Width="145" Background="#FF353131" FontFamily="Corbel" FontWeight="Bold" FontSize="16" Foreground="White"/>
+        <Button x:Name="instruktoriBtn" Content="Pregled instruktora" HorizontalAlignment="Left" Margin="580,236,0,0" VerticalAlignment="Top" Height="145" Width="145" Background="#FF353131" FontFamily="Corbel" FontWeight="Bold" FontSize="16" Foreground="White" Click="instruktoriEvent"/>
         <Button x:Name="fitnessCentarBtn" Content="Pregled centra" HorizontalAlignment="Left" Margin="374,236,0,0" VerticalAlignment="Top" Height="145" Width="145" Background="#FF353131" FontFamily="Corbel" FontSize="18" FontWeight="Bold" Foreground="White" Click="fcEvent"/>
         <Image Margin="39,127,493,127" Source="/benchlogo.png" Stretch="Fill"/>
 

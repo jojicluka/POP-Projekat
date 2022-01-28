@@ -43,7 +43,14 @@ namespace bench
 
         private void fcEvent(object sender, RoutedEventArgs e)
         {
+            FitnessCentarInfo fci = new FitnessCentarInfo();
+            fci.Show();
+        }
 
+        private void instruktoriEvent(object sender, RoutedEventArgs e)
+        {
+            PrikaziInstruktore pi = new PrikaziInstruktore();
+            pi.Show();
         }
     }
 }

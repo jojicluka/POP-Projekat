@@ -43,6 +43,9 @@
     <Compile Update="windows\InstruktorKreirajTrening.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="windows\InstruktorPregledPolaznika.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="windows\InstruktorPregledTreninga.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -65,6 +68,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="windows\PolaznikWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\PrikaziInstruktore.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="windows\RegistracijaWindow.xaml.cs">
@@ -111,6 +117,9 @@
     <Page Update="windows\InstruktorKreirajTrening.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="windows\InstruktorPregledPolaznika.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="windows\InstruktorPregledTreninga.xaml">
       <SubType>Designer</SubType>
     </Page>
@@ -133,6 +142,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="windows\PolaznikWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\PrikaziInstruktore.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="windows\RegistracijaWindow.xaml">

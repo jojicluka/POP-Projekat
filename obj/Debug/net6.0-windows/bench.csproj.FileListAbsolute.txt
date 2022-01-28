@@ -68,3 +68,7 @@ C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\Fitn
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PolaznikPregledTreninga.g.cs
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\FitnessCentarInfo.baml
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PolaznikPregledTreninga.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\InstruktorPregledPolaznika.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\InstruktorPregledPolaznika.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PrikaziInstruktore.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PrikaziInstruktore.baml

@@ -38,7 +38,8 @@ namespace bench.windows
 
         private void polazniciEvent(object sender, RoutedEventArgs e)
         {
-
+            InstruktorPregledPolaznika ipp = new InstruktorPregledPolaznika();
+            ipp.Show();
         }
     }
 }

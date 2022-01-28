@@ -14,7 +14,7 @@
             </LinearGradientBrush>
         </Grid.Background>
         <Image HorizontalAlignment="Left" Height="100" Margin="885,-18,0,0" VerticalAlignment="Top" Width="100"/>
-        <Image Margin="140,26,164,660" Source="/benchlogo.png" Stretch="Fill"/>
+        <Image Margin="148,73,156,613" Source="/benchlogo.png" Stretch="Fill"/>
 
         <Button x:Name="closeBtn" Content="Zatvori" HorizontalAlignment="Center" Height="30" Margin="0,723,0,0" VerticalAlignment="Top" Width="112" Background="#FF353131" FontWeight="Bold" Click="closeEvent"/>
         <Label Content="ID: " HorizontalAlignment="Left" Height="32" Margin="82,212,0,0" VerticalAlignment="Top" Width="76" Foreground="White" FontWeight="Bold" FontFamily="Arial Black" FontSize="16"/>
