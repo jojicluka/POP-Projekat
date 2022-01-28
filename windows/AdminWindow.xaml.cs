@@ -21,23 +21,26 @@ namespace bench.windows
     {
         public AdminWindow(string userId)
         {
-            MessageBox.Show(userId);
             InitializeComponent();
         }
 
         private void infoEvent(object sender, RoutedEventArgs e)
         {
-
+            PolaznikInfoWindow piw = new PolaznikInfoWindow();
+            this.Hide();
+            piw.Show();
         }
 
         private void polazniciEvent(object sender, RoutedEventArgs e)
         {
-
+            AdminPolazniciCrud adminPolazniciCrud = new AdminPolazniciCrud();
+            adminPolazniciCrud.Show();
         }
 
         private void instruktoriEvent(object sender, RoutedEventArgs e)
         {
-
+            AdminInstruktoriCRUD adminInstruktoriCRUD = new AdminInstruktoriCRUD();
+            adminInstruktoriCRUD.Show();
         }
 
         private void treninziEvent(object sender, RoutedEventArgs e)

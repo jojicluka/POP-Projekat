@@ -38,3 +38,13 @@ C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\Pola
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\InstruktorWindow.baml
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PolaznikInfoWindow.baml
 C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\PolaznikWindow.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminInstruktoriCRUD.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminInstruktoriCRUD.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminPolazniciCrud.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminPolazniciCrud.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminKreirajInstruktora.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminKreirajPolaznika.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminKreirajInstruktora.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminKreirajPolaznika.baml
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminIzmeniPolaznika.g.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\windows\AdminIzmeniPolaznika.baml

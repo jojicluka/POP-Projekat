@@ -32,12 +32,15 @@
         <TextBox x:Name="imeTextBox" HorizontalAlignment="Left" Height="16" Margin="192,220,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208"/>
         <TextBox x:Name="prezimeTextBox" HorizontalAlignment="Left" Height="16" Margin="192,257,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208"/>
         <TextBox x:Name="jmbgTextBox" HorizontalAlignment="Left" Height="16" Margin="192,294,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208"/>
-        <TextBox x:Name="polTextBox" HorizontalAlignment="Left" Height="16" Margin="192,331,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208"/>
         <TextBox x:Name="ulicaTextBox" HorizontalAlignment="Left" Height="16" Margin="192,368,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208"/>
         <TextBox x:Name="brojTextBox" HorizontalAlignment="Left" Height="16" Margin="192,405,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208"/>
         <TextBox x:Name="gradTextBox" HorizontalAlignment="Left" Height="16" Margin="192,442,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208"/>
         <TextBox x:Name="drzavaTextBox" HorizontalAlignment="Left" Height="16" Margin="192,479,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208"/>
         <TextBox x:Name="mailTextBox" HorizontalAlignment="Left" Height="16" Margin="192,516,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208"/>
         <TextBox x:Name="passwordTextBox" HorizontalAlignment="Left" Height="16" Margin="192,553,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="208"/>
+        <ComboBox x:Name="polCombo" HorizontalAlignment="Left" Height="24" Margin="192,329,0,0" VerticalAlignment="Top" Width="208" SelectedIndex="0">
+            <ComboBoxItem>Muski</ComboBoxItem>
+            <ComboBoxItem>Zenski</ComboBoxItem>
+        </ComboBox>
     </Grid>
 </Window>

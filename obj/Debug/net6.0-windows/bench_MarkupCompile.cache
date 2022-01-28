@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Z-Book\Desktop\Projekat POP\bench\App.xaml
-7-243102403
+12-1390418722
 
-101505809977
+15473762456
 1951772183171
-MainWindow.xaml;windows\AdminWindow.xaml;windows\InstruktorWindow.xaml;windows\LoginWindow.xaml;windows\PolaznikInfoWindow.xaml;windows\PolaznikWindow.xaml;windows\RegistracijaWindow.xaml;
+MainWindow.xaml;windows\AdminInstruktoriCRUD.xaml;windows\AdminIzmeniPolaznika.xaml;windows\AdminKreirajInstruktora.xaml;windows\AdminKreirajPolaznika.xaml;windows\AdminPolazniciCrud.xaml;windows\AdminWindow.xaml;windows\InstruktorWindow.xaml;windows\LoginWindow.xaml;windows\PolaznikInfoWindow.xaml;windows\PolaznikWindow.xaml;windows\RegistracijaWindow.xaml;
 
 False
 

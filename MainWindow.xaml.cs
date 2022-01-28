@@ -30,12 +30,14 @@ namespace bench
         private void registracijaBtnEvent(object sender, RoutedEventArgs e)
         {
             RegistracijaWindow registracija = new RegistracijaWindow();
+            this.Hide();
             registracija.Show();
         }
 
         private void loginBtnEvent(object sender, RoutedEventArgs e)
         {
             LoginWindow loginWindow = new LoginWindow();
+            this.Hide();
             loginWindow.Show();
         }
     }

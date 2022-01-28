@@ -15,7 +15,7 @@
         </Grid.Background>
         <Image Margin="39,127,493,127" Source="/benchlogo.png" Stretch="Fill"/>
         <Label Content="Instruktor Dashboard" HorizontalAlignment="Left" Height="31" Margin="137,276,0,0" VerticalAlignment="Top" Width="222" Foreground="White" FontWeight="Bold" FontFamily="Global Sans Serif" FontSize="20" FontStyle="Italic"/>
-        <Button x:Name="infoBtn" Content="Moje informacije" HorizontalAlignment="Left" Margin="374,53,0,0" VerticalAlignment="Top" Height="145" Width="145" Background="#FF353131" FontFamily="Corbel" Foreground="White" FontWeight="Bold" FontStyle="Normal" FontSize="18"/>
+        <Button x:Name="infoBtn" Content="Moje informacije" HorizontalAlignment="Left" Margin="374,53,0,0" VerticalAlignment="Top" Height="145" Width="145" Background="#FF353131" FontFamily="Corbel" Foreground="White" FontWeight="Bold" FontStyle="Normal" FontSize="18" Click="infoEvent"/>
         <Button x:Name="polazniciBtn" Content="Moji Polaznici" HorizontalAlignment="Left" Margin="587,53,0,0" VerticalAlignment="Top" Height="145" Width="145" Background="#FF353131" FontFamily="Corbel" FontWeight="Bold" FontSize="18" Foreground="White"/>
         <Button x:Name="treninziBtn" Content="Pregled Treninga" HorizontalAlignment="Left" Margin="484,228,0,0" VerticalAlignment="Top" Height="145" Width="145" Background="#FF353131" FontFamily="Corbel" Foreground="White" FontWeight="Bold" FontStyle="Normal" FontSize="18"/>
 

@@ -23,5 +23,12 @@ namespace bench.windows
         {
             InitializeComponent();
         }
+
+        private void infoEvent(object sender, RoutedEventArgs e)
+        {
+            PolaznikInfoWindow piw = new PolaznikInfoWindow();
+            this.Hide();
+            piw.Show();
+        }
     }
 }

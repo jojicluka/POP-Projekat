@@ -7,6 +7,21 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="windows\AdminInstruktoriCRUD.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\AdminIzmeniPolaznika.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\AdminKreirajInstruktora.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\AdminKreirajPolaznika.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="windows\AdminPolazniciCrud.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="windows\AdminWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -28,6 +43,21 @@
   </ItemGroup>
   <ItemGroup>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\AdminInstruktoriCRUD.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\AdminIzmeniPolaznika.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\AdminKreirajInstruktora.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\AdminKreirajPolaznika.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="windows\AdminPolazniciCrud.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="windows\AdminWindow.xaml">
