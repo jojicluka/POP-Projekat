@@ -1,0 +1,20 @@
+﻿bench
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Z-Book\Desktop\Projekat POP\bench\obj\Debug\net6.0-windows\
+bench
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Z-Book\Desktop\Projekat POP\bench\App.xaml
+7-243102403
+
+12-1442196671
+1951772183171
+MainWindow.xaml;windows\AdminWindow.xaml;windows\InstruktorWindow.xaml;windows\LoginWindow.xaml;windows\PolaznikInfoWindow.xaml;windows\PolaznikWindow.xaml;windows\RegistracijaWindow.xaml;
+
+False
+
